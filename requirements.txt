@@ -1,0 +1,11 @@
+# Dependensi Sesi 5 - DroneVision Dashboard
+numpy>=1.26
+pandas>=2.2
+opencv-python>=4.9
+streamlit>=1.37
+plotly>=5.22
+pytest>=8.0
+
+# Opsional: untuk mode deteksi YOLO dengan bobot model kustom.
+# Buka komentar bila ingin memakai mode yolo.
+# ultralytics>=8.1
